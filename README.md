@@ -1,4 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
+NANDHANA.R(212223040124)
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
